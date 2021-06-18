@@ -18,12 +18,15 @@
   The website I collect data from : https://twitchtracker.com/statistics
    
    #### Reference Links ;
-   
-https://www.statista.com/statistics/1108340/covid-twitch-users <br>
-https://www.cnnturk.com/teknoloji/twitch-izlenme-sayisini-katladi <br>
-https://chart-studio.plotly.com/create/ <br>
-https://www.businessofapps.com/data/twitch-statistics/ <br>
-https://www.geekwire.com/2020/twitch-sets-audience-record-october-pandemic-continues-fuel-livestreaming-growth/ <br>
-https://twitchtracker.com/statistics/games <br>
-https://towardsdatascience.com/insights-from-visualizing-public-data-on-twitch-a73304a1b3eb <br>
-https://www.trackalytics.com/the-most-followed-twitch-channels/page/1/ <br>
+  Kim , S. , Twıtch: The Ultımate covıd-19 Benefıcıary ,Mcgıll's student-run news magazine, Jan 25, 2021. Retrieved June 15, 2021, from http://bullandbearmcgill.com/twitch-the-ultimate-covid-19-beneficiary/ <br>
+Clement, J.,  COVID-19: Twitch user increase 2020 , Jan 29, 2021. Retrieved June 15, 2021, from https://www.statista.com/statistics/1108340/covid-twitch-users 
+https://www.cnnturk.com/teknoloji/twitch-izlenme-sayisini-katladi<br>
+https://chart-studio.plotly.com/create/<br>
+Stephen, B. ,’’TheVERGE ,This is Twitch’s moment’’ , Mar 18, 2020. Retrieved June 15, 2021, from https://www.theverge.com/2020/3/18/21185114/twitch-youtube-livestreaming-streamelements-coronavirus-quarantine-viewership-numbers <br>
+https://www.businessofapps.com/data/twitch-statistics/<br>
+https://www.geekwire.com/2020/twitch-sets-audience-record-october-pandemic-continues-fuel-livestreaming-growth/<br>
+https://twitchtracker.com/statistics/games<br>
+Gershenfeld , K. ,Insights from Visualizing Public Data on Twitch, Mapping Communities Using Viewer Trends,. Retrieved June 15, 2021, from https://towardsdatascience.com/insights-from-visualizing-public-data-on-twitch-a73304a1b3eb <br>
+https://www.trackalytics.com/the-most-followed-twitch-channels/page/1/<br>
+ https://live.amcharts.com/<br>
+ <br>
